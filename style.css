@@ -1,9 +1,9 @@
 :root{
-      background: black;
+   --background: black;
    --primary-color: #1c1d20;
    --secondary-color: #4a4d57;
-   --accent-color: #00ffc4;
-   --text-color: #f9f9f9;
+   --accent-color: #00ffd0;
+   --text-color: #ffffff;
 }
 *{
     margin: 0;
@@ -47,4 +47,56 @@ h1{
     font: inherit;
     color: var(--text-color);
     caret-color: var(--accent-color);
+}
+#todo-input:focus{
+    outline: none; 
+}
+form{
+    position: relative;
+}
+
+#add-button{
+    position:absolute;
+    top: 0;
+    right: 0;
+
+    background-color: var(--accent-color);
+    border: none;
+    height: 100%;
+    padding: 0 30px;
+    border-radius:  1000px;
+    font: inherit;
+    font-weight: 600;;
+    color: var(--background);
+    cursor: pointer;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.todo{
+    margin-bottom: 10px;
+    padding: 15px 16px;
+    background-color: var(--primary-color);
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.todo-text{
+    flex-grow: 1;
+}
+form{
+    position: relative;
+    display: flex;
+}
+.delete-button{
+    padding: 3px;
+    background: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
 }
