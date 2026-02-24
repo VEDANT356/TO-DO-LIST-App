@@ -107,6 +107,9 @@ form{
     cursor: pointer;
 }
 .delete-button svg{
+    fill: var(--secondary-color);
+    width: 22px;
+    height: 22px;
     transition: 200ms;
 }
 .delete-button:hover svg{
@@ -135,7 +138,7 @@ input[type="checkbox"]:checked ~ .todo-text{
 input[type="checkbox"]{
     display: none;
 }
-@media(max-widrth: 500px){
+@media(max-width: 500px){
     html{
         font-size: 12pt;
     }
