@@ -1,7 +1,7 @@
 # 📝 Todo App
 
 A simple and interactive Todo App built using **HTML, CSS, and JavaScript**.
-This project demonstrates core concepts of **DOM manipulation and event handling**.
+This project demonstrates core concepts of **DOM manipulation and event handling**.To-Do application designed for seamless task management. Built with a focus on State Persistence and Fluid UI/UX, it helps users organize their daily workflow without the friction of complex software.
 
 ---
 
