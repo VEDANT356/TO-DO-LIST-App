@@ -2,7 +2,7 @@
 
 A clean, responsive, and interactive Task Management Application built using HTML, CSS, and Vanilla JavaScript.
 
-This project focuses on strengthening core frontend fundamentals such as DOM manipulation, event handling, and dynamic UI updates — while maintaining simplicity and usability.
+This project focuses on mastering core frontend fundamentals like DOM manipulation, event handling, and dynamic UI rendering — while keeping the UI minimal and user-friendly.
 
 🚀 Features
 
@@ -14,15 +14,15 @@ This project focuses on strengthening core frontend fundamentals such as DOM man
 
 🔄 Dynamic DOM updates (no page reload)
 
-🎨 Clean and minimal UI design
+🎨 Clean & minimal UI
 
-📱 Responsive layout
+📱 Fully responsive layout
 
 🛠️ Tech Stack
 
 HTML5 – Structured layout
 
-CSS3 – Styling and responsiveness
+CSS3 – Styling & responsiveness
 
 Vanilla JavaScript – Application logic & DOM manipulation
 
@@ -30,7 +30,7 @@ Vanilla JavaScript – Application logic & DOM manipulation
 
 DOM Selection & Manipulation
 
-Event Listeners (Click & Submit)
+Event Handling (Click & Submit)
 
 Dynamic Element Creation
 
@@ -52,6 +52,7 @@ The task appears instantly in the list
 
 Users can delete tasks without refreshing the page
 
+🔮 Future Enhancements
 
 💾 Save tasks using LocalStorage
 
@@ -63,9 +64,9 @@ Users can delete tasks without refreshing the page
 
 ✨ Add smooth UI animations
 
-💡 Learning Outcome
+💡 Learning Outcomes
 
-This project helped improve my understanding of:
+This project strengthened my understanding of:
 
 How JavaScript interacts with the DOM
 
@@ -73,9 +74,9 @@ Building small-scale frontend applications
 
 Managing UI state dynamically
 
-Writing cleaner and structured JavaScript
+Writing clean and structured JavaScript
 
-📌 Project Status
+📂 Project Status
 
 🟢 Fully Functional
-🔄 Open for future enhancements
+🚀 Actively maintained and open for improvements
