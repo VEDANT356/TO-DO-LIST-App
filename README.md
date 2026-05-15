@@ -87,5 +87,6 @@ This project helped strengthen my understanding of:
 
 # 📂 PROJECT STATUS
 
+
 🟢 **Fully Functional**  
 🚀 Actively maintained and open for improvements
