@@ -86,5 +86,21 @@ Optimized for multiple devices:
 **Vedant Kotkar**
 Computer Science Student | Frontend Developer
 
-Passionate about building responsive web applications and continuously improving frontend development skills through real-world projects.
+#### Skills
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* API Integration
+* Responsive Web Design
+
+#### Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/vedant-kotkar-48976236b/
+
+GitHub:
+https://github.com/VEDANT356
+
 
